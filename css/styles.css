@@ -42,6 +42,7 @@ a {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
+  margin-bottom: 72px;
 }
 
 .container {
@@ -71,7 +72,6 @@ img {
 
 .section {
   padding: 120px 0;
-  margin-bottom: 72px;
 }
 
 /* ------GLOBAL------ */
@@ -118,6 +118,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding: 24px 0;
 }
 
 .navigation-link:hover,
@@ -243,7 +244,6 @@ img {
 .team-list {
   display: flex;
   gap: 24px;
-  margin-top: 72px;
 }
 
 .team-item {
@@ -304,7 +304,6 @@ img {
   flex-wrap: wrap;
   row-gap: 48px;
   column-gap: 24px;
-  margin-top: 72px;
 }
 
 .portfolio-item {
